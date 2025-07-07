@@ -82,6 +82,14 @@ Latency ≈ 0.18 ms per message on modern CPUs.
 
 ---
 
+## 📊 Performance Snapshot
+
+- 📈 **Training Accuracy**: 98.97%  
+- 📊 **Testing Accuracy**: 97.43%  
+- ⚡ **Prediction Latency**: ~0.18 ms per message (on standard CPU)
+
+---
+
 ## 📄 License
 
 **All Rights Reserved**  
