@@ -81,3 +81,23 @@ Latency ≈ 0.18 ms per message on modern CPUs.
 | `spam_sms_emails.csv`   | SMS + Email | Real-world messages with spam tactics and legitimate (ham) samples | `spam`, `ham` |
 
 ---
+
+## 📄 License
+
+**All Rights Reserved**  
+© 2025 Konstantinos Zafeiropoulos
+
+This work is protected by copyright law and international treaties.
+
+No part of this repository, including code, data, models, documentation, or any other associated materials (collectively, the "Work"), may be copied, reproduced, modified, published, uploaded, posted, transmitted, or distributed in any form or by any means, without the prior written permission of the author, except for personal academic reference and citation.
+
+You may not:
+- Use this work for commercial purposes  
+- Distribute copies or modified versions of this work  
+- Use any part of this work to create derivative works, including research, software, or datasets, without explicit permission  
+- Upload this work or its derivatives to other platforms (e.g., Kaggle, Hugging Face, or other GitHub repositories)
+
+For academic citation, proper attribution must be given to:  
+**Konstantinos Zafeiropoulos – University of West Attica, 2025**
+
+This work is part of the author’s official Master’s thesis submission, which will be published in the institutional repository **«Πολυνόη»** and indexed on **Google Scholar** by **September 2025**.
